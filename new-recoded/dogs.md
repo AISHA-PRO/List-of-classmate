@@ -1,4 +1,4 @@
-# My list of dogs:
+# list of dogs:
 1. Pitbull
 2. sheba 
 3. policy
